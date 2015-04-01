@@ -16,11 +16,11 @@ Uploading Image from Phonegap Mobile App to PHP backend
  
 ##### Step 3 : Add required plugins to Phonegap Project
 
-`sudo cordova plugin add org.apache.cordova.camera`
-`sudo cordova plugin add org.apache.cordova.media-capture` 
-`sudo cordova plugin add org.apache.cordova.file`
-`sudo cordova plugin add org.apache.cordova.file-transfer`
-`sudo cordova plugin add org.apache.cordova.console`
+`sudo cordova plugin add org.apache.cordova.camera` <br />
+`sudo cordova plugin add org.apache.cordova.media-capture`<br /> 
+`sudo cordova plugin add org.apache.cordova.file` <br />
+`sudo cordova plugin add org.apache.cordova.file-transfer` <br />
+`sudo cordova plugin add org.apache.cordova.console` <br />
 
 ##### Step 4 : Create an Image Field inside html file 
 ```
