@@ -1,6 +1,8 @@
 PhonegapFileUpload
 ==================
 
+<div class="pm-button"><a href="https://www.payumoney.com/paybypayumoney/#/A1F3AA31B209A89321AF96C8A034609D"><img src="https://www.payumoney.com//media/images/payby_payumoney/buttons/111.png" /></a></div>
+
 <a href='https://pledgie.com/campaigns/28760'><img alt='Click here to lend your support to: Donate and make a donation at pledgie.com !' src='https://pledgie.com/campaigns/28760.png?skin_name=chrome' border='0' ></a>
 
 Uploading Image from Phonegap Mobile App to PHP backend
