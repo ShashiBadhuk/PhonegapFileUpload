@@ -1,21 +1,20 @@
 PhonegapFileUpload
 ==================
 
-If this help you, don't forget to donate us.
+###### If this helps you, don't forget to donate us.
 
-<div class="pm-button"><a href="https://www.payumoney.com/paybypayumoney/#/38831"><img src="https://www.payumoney.com//media/images/payby_payumoney/buttons/213.png" /></a></div>
+<div class="pm-button"><a href="https://www.payumoney.com/paybypayumoney/#/38831"><img src="https://www.payumoney.com//media/images/payby_payumoney/buttons/113.png" /></a></div>
 
 Uploading Image from Phonegap Mobile App to PHP backend
 
-Step 1 : Create Phonegap Project
-`sudo cordova create PhonegapFileUpload com.shashibadhuk.phonegapfileupload PhonegapFileUpload`
+##### Step 1 : Create Phonegap Project 
+ `sudo cordova create PhonegapFileUpload com.shashibadhuk.phonegapfileupload PhonegapFileUpload`
 
-Step 2 : Add iOS and Android Platform to Phonegap Project
-
-`sudo cordova platform add ios`
+##### Step 2 : Add iOS and Android Platform to Phonegap Project 
+`sudo cordova platform add ios` <br />
 `sudo cordova platform add android`
  
-Step 3 : Add required plugins to Phonegap Project
+##### Step 3 : Add required plugins to Phonegap Project
 
 `sudo cordova plugin add org.apache.cordova.camera`
 `sudo cordova plugin add org.apache.cordova.media-capture` 
@@ -23,7 +22,7 @@ Step 3 : Add required plugins to Phonegap Project
 `sudo cordova plugin add org.apache.cordova.file-transfer`
 `sudo cordova plugin add org.apache.cordova.console`
 
-Step 4 : Create an Image Field inside html file 
+##### Step 4 : Create an Image Field inside html file 
 ```
 <div class="app">
     <h1>File Upload - Shashi Badhuk</h1>
@@ -42,7 +41,7 @@ Step 4 : Create an Image Field inside html file
 </div>
 ```
  
-Step 5 : Create Method for File Upload (File API Implementation)
+##### Step 5 : Create Method for File Upload (File API Implementation)
 ```
 function uploadImage() {
     document.getElementById('picture_msg').innerHTML = "";
@@ -103,7 +102,7 @@ function uploadImage() {
 }  
 ``` 
  
-Step 6 : Create PHP Script on server side to save file (Server Side Implementation)
+##### Step 6 : Create PHP Script on server side to save file (Server Side Implementation)
 ```
 <?php 
  // Directory where uploaded images are saved
