@@ -1,7 +1,9 @@
 PhonegapFileUpload
 ==================
 
-<div class="pm-button"><a href="https://www.payumoney.com/paybypayumoney/#/A1F3AA31B209A89321AF96C8A034609D"><img src="https://www.payumoney.com//media/images/payby_payumoney/buttons/111.png" /></a></div>
+If this help you, don't forget to donate us.
+
+<div class="pm-button"><a href="https://www.payumoney.com/paybypayumoney/#/38831"><img src="https://www.payumoney.com//media/images/payby_payumoney/buttons/213.png" /></a></div>
 
 Uploading Image from Phonegap Mobile App to PHP backend
 
@@ -9,10 +11,12 @@ Step 1 : Create Phonegap Project
 `sudo cordova create PhonegapFileUpload com.shashibadhuk.phonegapfileupload PhonegapFileUpload`
 
 Step 2 : Add iOS and Android Platform to Phonegap Project
+
 `sudo cordova platform add ios`
 `sudo cordova platform add android`
  
 Step 3 : Add required plugins to Phonegap Project
+
 `sudo cordova plugin add org.apache.cordova.camera`
 `sudo cordova plugin add org.apache.cordova.media-capture` 
 `sudo cordova plugin add org.apache.cordova.file`
