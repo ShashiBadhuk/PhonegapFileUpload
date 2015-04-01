@@ -4,7 +4,7 @@ Uploading Image from Phonegap Mobile App to PHP backend
 
 ###### If this helps you, don't forget to donate us.
 
-<div class="pm-button"><a href="https://www.payumoney.com/paybypayumoney/#/38831"><img src="https://www.payumoney.com//media/images/payby_payumoney/buttons/113.png" /></a></div>
+<div class="pm-button"><a href="https://www.payumoney.com/paybypayumoney/#/38831"><img src="https://www.payumoney.com//media/images/payby_payumoney/buttons/112.png" /></a></div>
 
 
 ##### Step 1 : Create Phonegap Project 
